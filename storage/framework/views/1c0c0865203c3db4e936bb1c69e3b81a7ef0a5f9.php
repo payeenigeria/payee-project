@@ -1,0 +1,1 @@
+<h1>Payee</h1><?php /**PATH C:\xampp\htdocs\Payee\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
